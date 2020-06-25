@@ -1,4 +1,4 @@
-NAME ?= R Kernels
+NAME ?= RyzenKernels
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 

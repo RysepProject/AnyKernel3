@@ -1,4 +1,4 @@
-NAME ?= JFLA AOSP
+NAME ?= R Kernels
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 

@@ -1,4 +1,4 @@
-NAME ?= MisakiCAF-Kernel
+NAME ?= RyzenX
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
